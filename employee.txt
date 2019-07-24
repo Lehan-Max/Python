@@ -1,0 +1,10 @@
+1, Tony, M.tech, 56000, CS
+2, Ram, B.tech, 46000, IS
+3, Max, MBA, 36000, MT
+4, Joy, B.tech, 25000, ME
+5, Ravi, P.hd, 66000, CV
+6, praneeth, M.tech, 76000, CS
+7, Savi, M.tech, 586000, IS
+8, Bhuvi, MBA, 96000, MT
+9, Raj, B.tech, 26000, CV
+10, Sony, P.hd, 456000, IS
