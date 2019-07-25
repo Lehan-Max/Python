@@ -26,3 +26,7 @@ class ContactBook:
     @staticmethod
     def viewAll():
         pass
+
+    @staticmethod
+    def update():
+        
